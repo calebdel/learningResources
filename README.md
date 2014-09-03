@@ -3,22 +3,20 @@ Free online resources :)
 
 A little library of free books, articles and tutorials that I find useful and interesting.
 
-----
+
 eBooks
 ----
-** - Javascript **
+### - Javascript
 * [Learning JavaScript Design Patterns] - ([Addy Osmani])
 * ...
 
-** - Ruby **
+### - Ruby
 * ...
 
 
-----
 Articles
 ----
 
-----
 Tutorials
 ----
 

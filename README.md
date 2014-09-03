@@ -6,13 +6,14 @@ A little library of free books, articles and tutorials that I find useful and in
 
 eBooks
 ----
-### - Javascript
+##### - Javascript
 * [Learning JavaScript Design Patterns] - ([Addy Osmani])
 * ...
 
-### - Ruby
+##### - Ruby
 * ...
 
+##### - ...
 
 Articles
 ----
@@ -20,7 +21,6 @@ Articles
 Tutorials
 ----
 
-----
 
 [Learning JavaScript Design Patterns]:http://addyosmani.com/resources/essentialjsdesignpatterns/book/
 [Addy Osmani]:http://addyosmani.com/

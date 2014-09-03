@@ -8,6 +8,8 @@ eBooks
 ----
 ##### - Javascript
 * [Learning JavaScript Design Patterns] - ([Addy Osmani])
+* [Human Javascript] - ([Henrik Joreteg] @ [&yet])
+
 * ...
 
 ##### - Ruby
@@ -24,3 +26,7 @@ Tutorials
 
 [Learning JavaScript Design Patterns]:http://addyosmani.com/resources/essentialjsdesignpatterns/book/
 [Addy Osmani]:http://addyosmani.com/
+[Human Javascript]:http://read.humanjavascript.com/
+[Henrik Joreteg]:https://twitter.com/henrikjoreteg
+[&yet]:http://andyet.com
+

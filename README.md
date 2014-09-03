@@ -15,6 +15,9 @@ eBooks
 ##### - Ruby
 * ...
 
+##### - Http
+* [RESTful Web APIs]
+
 ##### - ...
 
 Articles
@@ -29,4 +32,6 @@ Tutorials
 [Human Javascript]:http://read.humanjavascript.com/
 [Henrik Joreteg]:https://twitter.com/henrikjoreteg
 [&yet]:http://andyet.com
+
+[RESTful Web APIs]:http://it-ebooks.info/read/3060/
 

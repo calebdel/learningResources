@@ -6,11 +6,14 @@ A little library of free books, articles and tutorials that I find useful and in
 
 eBooks
 ----
-##### - Javascript
+##### - Javascript (Vanilla)
 * [Learning JavaScript Design Patterns] - ([Addy Osmani])
 * [Human Javascript] - ([Henrik Joreteg] @ [&yet])
 
 * ...
+
+##### - Backbone.js
+* [Backbone.js Applications] - ([Addy Osmani])
 
 ##### - Ruby
 * ...
@@ -22,6 +25,9 @@ eBooks
 
 Articles
 ----
+##### - Javascript (Vanilla)
+* [JS design patterns: Singleton] - ([Rob Dodson])
+
 
 Tutorials
 ----
@@ -33,5 +39,9 @@ Tutorials
 [Henrik Joreteg]:https://twitter.com/henrikjoreteg
 [&yet]:http://andyet.com
 
+[Backbone.js Applications]:http://addyosmani.github.io/backbone-fundamentals/
+
 [RESTful Web APIs]:http://it-ebooks.info/read/3060/
 
+[JS design patterns: Singleton]:http://robdodson.me/blog/2012/08/08/javascript-design-patterns-singleton/
+[Rob Dodson]:http://robdodson.me/

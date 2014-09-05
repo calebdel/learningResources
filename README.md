@@ -33,6 +33,9 @@ Articles
 ##### - Handlebars
 * [Learn Everything About Handlebars.js JavaScript Templating]
 
+##### - CSS
+* [Getting Your Head Round Bem Syntax]
+
 Tutorials
 ----
 ##### - Backbone.js
@@ -60,11 +63,11 @@ Other Resource Lists
 
 [JS design patterns: Singleton]:http://robdodson.me/blog/2012/08/08/javascript-design-patterns-singleton/
 [Rob Dodson]:http://robdodson.me/
+[Learn Everything About Handlebars.js JavaScript Templating]:http://javascriptissexy.com/handlebars-js-tutorial-learn-everything-about-handlebars-js-javascript-templating/
+[Getting Your Head Round Bem Syntax]:http://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/
 
 [BackboneTutorials]:http://backbonetutorials.com/
 [Step by step from jQuery to Backbone]:https://github.com/kjbekkelund/writings/blob/master/published/understanding-backbone.md
-
-[Learn Everything About Handlebars.js JavaScript Templating]:http://javascriptissexy.com/handlebars-js-tutorial-learn-everything-about-handlebars-js-javascript-templating/
 
 [Emberwatch]: http://emberwatch.com/
 [AngularJS-Learning]:https://github.com/jmcunningham/AngularJS-Learning

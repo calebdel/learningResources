@@ -30,12 +30,15 @@ Articles
 ##### - Javascript (Vanilla)
 * [JS design patterns: Singleton] - ([Rob Dodson])
 
+##### - Handlebars
+* [Learn Everything About Handlebars.js JavaScript Templating]
 
 Tutorials
 ----
 ##### - Backbone.js
 * [BackboneTutorials]
 * [Step by step from jQuery to Backbone]
+
 
 Other Resource Lists
 ----
@@ -60,6 +63,8 @@ Other Resource Lists
 
 [BackboneTutorials]:http://backbonetutorials.com/
 [Step by step from jQuery to Backbone]:https://github.com/kjbekkelund/writings/blob/master/published/understanding-backbone.md
+
+[Learn Everything About Handlebars.js JavaScript Templating]:http://javascriptissexy.com/handlebars-js-tutorial-learn-everything-about-handlebars-js-javascript-templating/
 
 [Emberwatch]: http://emberwatch.com/
 [AngularJS-Learning]:https://github.com/jmcunningham/AngularJS-Learning

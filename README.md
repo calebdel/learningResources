@@ -27,7 +27,7 @@ eBooks
 
 Articles
 ----
-##### - Javascript (Vanilla)
+##### - Javascript (General)
 * [JS design patterns: Singleton] - ([Rob Dodson])
 
 ##### - Handlebars
@@ -43,9 +43,15 @@ Tutorials
 * [Step by step from jQuery to Backbone]
 * [A RequireJS, Backbone, and Bower Starter Template]
 
+##### - Workflow
+* - [Master Front-End Workflow with Yeoman, Grunt and Bower]
+
 
 Other Resource Lists
 ----
+##### - Javascript (General)
+* [JS books]
+
 ##### - Ember.js
 * [Emberwatch] 
 
@@ -71,6 +77,10 @@ Other Resource Lists
 [Step by step from jQuery to Backbone]:https://github.com/kjbekkelund/writings/blob/master/published/understanding-backbone.md
 
 [A RequireJS, Backbone, and Bower Starter Template]:https://www.youtube.com/watch?v=USk1ie30z5k
+
+[Master Front-End Workflow with Yeoman, Grunt and Bower]:https://www.youtube.com/watch?v=gKiaLSJW5xI
+
+[JS books]:http://jsbooks.revolunet.com/
 
 [Emberwatch]: http://emberwatch.com/
 [AngularJS-Learning]:https://github.com/jmcunningham/AngularJS-Learning

@@ -52,6 +52,9 @@ Best Practice Guides
 * [Javascript Coding Standards & Best Practices]
 * [Crockford's Code Conventions]
 
+##### - Ruby
+* [Ruby Style Guide]
+
 Other Resource Lists
 ----
 ##### - Javascript (General)
@@ -87,6 +90,8 @@ Other Resource Lists
 
 [Javascript Coding Standards & Best Practices]:https://github.com/stevekwan/best-practices/blob/master/javascript/best-practices.md
 [Crockford's Code Conventions]:http://javascript.crockford.com/code.html
+
+[Ruby Style Guide]:https://github.com/bbatsov/ruby-style-guide
 
 [JS books]:http://jsbooks.revolunet.com/
 

@@ -44,8 +44,13 @@ Tutorials
 * [A RequireJS, Backbone, and Bower Starter Template]
 
 ##### - Workflow
-* - [Master Front-End Workflow with Yeoman, Grunt and Bower]
+* [Master Front-End Workflow with Yeoman, Grunt and Bower]
 
+Best Practice Guides
+----
+##### - Javascript (General)
+* [Javascript Coding Standards & Best Practices]
+* [Crockford's Code Conventions]
 
 Other Resource Lists
 ----
@@ -79,6 +84,9 @@ Other Resource Lists
 [A RequireJS, Backbone, and Bower Starter Template]:https://www.youtube.com/watch?v=USk1ie30z5k
 
 [Master Front-End Workflow with Yeoman, Grunt and Bower]:https://www.youtube.com/watch?v=gKiaLSJW5xI
+
+[Javascript Coding Standards & Best Practices]:https://github.com/stevekwan/best-practices/blob/master/javascript/best-practices.md
+[Crockford's Code Conventions]:http://javascript.crockford.com/code.html
 
 [JS books]:http://jsbooks.revolunet.com/
 

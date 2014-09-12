@@ -44,6 +44,7 @@ Tutorials
 * [A RequireJS, Backbone, and Bower Starter Template]
 
 ##### - Workflow
+* [Getting started with Yeoman & generator-webapp] - ([Addy Osmani])
 * [Master Front-End Workflow with Yeoman, Grunt and Bower]
 
 Best Practice Guides
@@ -86,6 +87,7 @@ Other Resource Lists
 
 [A RequireJS, Backbone, and Bower Starter Template]:https://www.youtube.com/watch?v=USk1ie30z5k
 
+[Getting started with Yeoman & generator-webapp]:https://www.youtube.com/watch?v=zBt2g9ekiug
 [Master Front-End Workflow with Yeoman, Grunt and Bower]:https://www.youtube.com/watch?v=gKiaLSJW5xI
 
 [Javascript Coding Standards & Best Practices]:https://github.com/stevekwan/best-practices/blob/master/javascript/best-practices.md

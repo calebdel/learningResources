@@ -52,6 +52,7 @@ Best Practice Guides
 ##### - Javascript (General)
 * [Javascript Coding Standards & Best Practices]
 * [Crockford's Code Conventions]
+* [Eloquent Javascript] - ([Marijn Haverbeke])
 
 ##### - Ruby
 * [Ruby Style Guide]
@@ -99,3 +100,6 @@ Other Resource Lists
 
 [Emberwatch]: http://emberwatch.com/
 [AngularJS-Learning]:https://github.com/jmcunningham/AngularJS-Learning
+
+[Eloquent Javascript]:http://eloquentjavascript.net/
+[Marijn Haverbeke]:https://marijnhaverbeke.nl/
